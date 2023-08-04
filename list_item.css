@@ -1,0 +1,9 @@
+.list-html {
+  background-color: #2980b9;
+  margin-bottom: 20px;
+  padding-bottom: 8px;
+  padding-top: 8px;
+}
+.list-html:hover {
+  background-color: #3498db;
+}

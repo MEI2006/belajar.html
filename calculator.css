@@ -1,0 +1,46 @@
+#row_1{
+    margin-bottom: 8px;
+}
+#row_1 > button {
+    margin-left: 30px;
+    background-color: #6558f5;
+    color: #ffffff;
+    font-size: 16px;
+    border-radius: 4px;
+    border: noniv class="card">
+    <img src="myphoto.jpg" alt="Avatar" style="width:100%">
+    <div class="container">
+      <h4><b></b></h4>
+      <p></p>
+      
+    </div>
+  </div> t: 10px;
+}
+#row_1 > button.operator {
+    width: 100px;
+}
+#row_1 > button:hover {
+    opacity: 0,9;
+    cursor: pointer;
+}
+#row_1{
+    margin-bottom: 8px;
+}
+#row_2 > button {
+    margin-left: 30px;
+    background-color: #6558f5;
+    color: #ffffff;
+    font-size: 16px;
+    border-radius: 4px;
+    border: none;
+    padding: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+#row_2 > button.operator {
+    width: 100px;
+}
+#row_2 > button:hover {
+    opacity: 0,9;
+    cursor: pointer;
+}

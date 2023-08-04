@@ -1,0 +1,40 @@
+
+        #content {
+          background: blanchedalmond;
+        }
+
+        .btn {
+          border-radius: 10px;
+          box-shadow: none;
+          border: none;
+          transition-duration: 0.4s;
+        }
+
+        .btn:hover {
+          opacity: 80;
+          background-color: #6a6868;
+        }
+
+        .text-black {
+          color: rgb(6, 6, 6);
+        }
+
+        .radius {
+          border-radius: 10px;
+        }
+
+        .background-umum {
+          background-color: rgb(246, 241, 247);
+          font-size: 18;
+          padding: 10px 10px;
+        }
+
+        .s-2 {
+          width: 20px;
+          height: 20px;
+        }
+
+        .m1-1 {
+          margin-left: 6px;
+        }
+        
