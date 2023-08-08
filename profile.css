@@ -1,0 +1,66 @@
+img {
+    
+    border-radius: 100%;
+    height: 260px;
+    width: 260px;
+    object-position: center;
+
+}
+
+body {
+    border-radius: 2px;
+}
+
+h4 {
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+.center {
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+}
+span.umur {
+    color: rgb(190, 193, 193);
+    font-weight: 300px;
+    
+}
+p.lokasi {
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 30%;
+}   
+hr {
+    width: 50%;
+}
+h2 {
+    padding-right: 30%;  
+    text-align: center;
+}
+.text-besar {
+    font-size: 40px;
+    text-align: center;
+}
+.table-center {
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    
+}
+.table-width {
+    width: 50%;
+}
+.center-tengah {
+    text-align: center;
+    
+}
+.box {
+    border: 1px solid grey;
+    width: 50%;
+    margin: auto;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    margin-top: 5%;
+    
+}
