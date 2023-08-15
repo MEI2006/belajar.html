@@ -1,0 +1,35 @@
+.button-sub {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    background-color: blue;
+    color: white;
+    padding: 8px;
+    font-weight: 700;
+}
+.container {
+    width: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+height: 100vh;
+}
+.form-container {
+    width: 100%
+}
+.input-field {
+    margin-top: 10px;
+    padding: 6px;
+    border-radius: 8px;
+}
+.box {
+    border: 1px solid;
+    border-radius: 8px;
+    padding: 10px;
+}
+.text-p {
+    font-size: 20px;
+    font-weight: 800;
+}
